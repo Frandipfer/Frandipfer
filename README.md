@@ -21,4 +21,4 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 #### Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fdippiton&theme=nightowl)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fdippiton&theme=github-light)](https://git.io/streak-stats)
