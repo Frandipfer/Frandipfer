@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @fdippiton
-- 👀 I’m interested in programming👩🏽‍💻, robotics, software development and embedded systems 
-- 🌱 I’m currently learning frontend development
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me on francina.dippiton@gmail.com and follow me on @f_dippiton
+### Hi! 👋, Francina Dippitón greets! (^_^)
+
+I'm a Computer Systems Engineering student, and I'm really passionate about technology. So that's why I constantly seek to gain knowledge, and at the same time be able to improve and develop my programmer's skills.
+- 👀 I’m really into web programming👩🏽‍💻, robotics, software development and embedded systems. 
+- 🌱 Currently learning frontend development.
+- 📫 Reach me on francina.dippiton@gmail.com and follow me on @f_dippiton 
 
 <!---
 Frandipfer/Frandipfer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
