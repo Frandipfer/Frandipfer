@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fdippiton&show_icons=true&locale=en" alt="fdippiton" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fdippiton" alt="fdippiton" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fdippiton&theme=flat" alt="fdippiton" /></a> </p>
 
 #### Connect with me:
 <p align="left">
