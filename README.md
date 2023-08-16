@@ -13,7 +13,9 @@ Frandipfer/Frandipfer is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdippiton&layout=compact&theme=github-light)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdippiton&show_icons=true&theme=radical)
+
+
 
 #### Skills & Tools
 <div>
