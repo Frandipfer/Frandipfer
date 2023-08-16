@@ -13,7 +13,7 @@ Frandipfer/Frandipfer is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdippiton&show_icons=true&theme=tokyonight)
+
 
 
 
@@ -32,9 +32,11 @@ You can click the Preview link to take a look at your changes.
 
 
 #### Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdippiton&show_icons=true&theme=tokyonight)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fdippiton&theme=github-light)](https://git.io/streak-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fdippiton&show_icons=true&locale=en" alt="fdippiton" /></p>
 
 #### Connect with me:
 <p align="left">
