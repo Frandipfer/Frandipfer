@@ -28,6 +28,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdippiton&layout=compact)](https://github.com/fdippiton/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fdippiton)](https://github.com/fdippiton/github-readme-stats)
 
 <!---
 #### Stats
