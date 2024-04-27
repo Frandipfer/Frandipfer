@@ -1,7 +1,7 @@
 
 <h4 align="left">Hi there! 👋!</h4>
 
-I'm a Computer Systems Engineering student from Dominican Republic. I'm really passionate about technology. So that's why I constantly seek to gain knowledge, and at the same time be able to improve and develop my programmer's skills.
+I'm a Computer Systems Engineering student from Dominican Republic. I have a deep passion for technology, which drives my constant pursuit of knowledge and skill enhancement in programming.
 - 👨‍💻 All of my projects are available at [fdippiton.github.io/fdippiton-portfolio/](https://fdippiton.github.io/fdippiton-portfolio/)
 - 📫 Reach me on francina.dippiton@gmail.com and follow me on @fdippiton 
 
