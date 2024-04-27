@@ -38,6 +38,5 @@ You can click the Preview link to take a look at your changes.
 #### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/francina-dippiton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francina dippiton" height="20" width="30" /></a>
-<a href="https://instagram.com/fdippiton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fdippiton" height="20" width="30" /></a>
 <a href="https://www.hackerrank.com/frdippiton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="frdippiton" height="20" width="30" /></a>
 </p>
