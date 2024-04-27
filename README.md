@@ -6,7 +6,7 @@ I have a deep passion for technology, which drives my constant pursuit of knowle
 </p>
 
 
-- 👨‍💻 All of my projects are available at [fdippiton.github.io/fdippiton-portfolio/](https://fdippiton.github.io/fdippiton-portfolio/)
+- 👨‍💻 All of my projects are available in my [portfolio](https://fdippiton.github.io/fdippiton-portfolio/)
 - 📫 Reach me on francina.dippiton@gmail.com 
 
 <!---
