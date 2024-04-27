@@ -41,6 +41,8 @@ You can click the Preview link to take a look at your changes.
   <img alt="Mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=Sql%20Server&logoColor=white">
   <img alt=".Net" src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.Net&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=c%23&logoColor=white">
+
 
 
 
