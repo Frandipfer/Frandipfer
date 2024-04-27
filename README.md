@@ -3,7 +3,7 @@
 
 I'm a Computer Systems Engineering student from Dominican Republic. I have a deep passion for technology, which drives my constant pursuit of knowledge and skill enhancement in programming.
 - 👨‍💻 All of my projects are available at [fdippiton.github.io/fdippiton-portfolio/](https://fdippiton.github.io/fdippiton-portfolio/)
-- 📫 Reach me on francina.dippiton@gmail.com and follow me on @fdippiton 
+- 📫 Reach me on francina.dippiton@gmail.com 
 
 <!---
 Frandipfer/Frandipfer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
