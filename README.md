@@ -1,5 +1,5 @@
 
-<h4 align="center">Hi there! 👋!</h4>
+<h4 align="left">Hi there! 👋!</h4>
 
 I'm a Computer Systems Engineering student from Dominican Republic. I'm really passionate about technology. So that's why I constantly seek to gain knowledge, and at the same time be able to improve and develop my programmer's skills.
 - 👨‍💻 All of my projects are available at [fdippiton.github.io/fdippiton-portfolio/] (https://fdippiton.github.io/fdippiton-portfolio/)
@@ -37,9 +37,7 @@ You can click the Preview link to take a look at your changes.
 
 #### Connect with me:
 <p align="left">
-<a href="https://twitter.com/fdippiton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fdippiton" height="20" width="30" /></a>
 <a href="https://linkedin.com/in/francina-dippiton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francina dippiton" height="20" width="30" /></a>
 <a href="https://instagram.com/fdippiton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fdippiton" height="20" width="30" /></a>
-<!--- <a href="https://www.youtube.com/channel/UCQYPuBvb-i4mA_4u8gyS7UA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="francina." height="20" width="30" /></a> --->
 <a href="https://www.hackerrank.com/frdippiton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="frdippiton" height="20" width="30" /></a>
 </p>
