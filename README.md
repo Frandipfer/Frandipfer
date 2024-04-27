@@ -31,11 +31,20 @@ You can click the Preview link to take a look at your changes.
 
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white">
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white&color=gray">
+  <img alt="Mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=Sql%20Server&logoColor=white">
+  <img alt=".Net" src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.Net&logoColor=white">
+
+
+
+
 </p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdippiton&layout=compact)](https://github.com/fdippiton/github-readme-stats)
 
