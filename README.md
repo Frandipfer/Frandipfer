@@ -1,7 +1,7 @@
 
 <h3 align="left">Hi there! 👋!</h3>
 
-<strong>A Computer Systems Engineering student from Dominican Republic.</strong>
+<b>A Computer Systems Engineering student from Dominican Republic.</b>
 <h4>I have a deep passion for technology, which drives my constant pursuit of knowledge and skill enhancement in programming.</h4>
 
 - 👨‍💻 All of my projects are available at [fdippiton.github.io/fdippiton-portfolio/](https://fdippiton.github.io/fdippiton-portfolio/)
