@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![](https://komarev.com/ghpvc/?username=fdippiton&color=#0000)
+![](https://komarev.com/ghpvc/?username=fdippiton&color=000000)
 #### Skills & Tools
 <!--- 
 <div>
