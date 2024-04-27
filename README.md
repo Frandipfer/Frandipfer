@@ -1,11 +1,8 @@
 
-<h1 align="center">Hi! 👋, Francina Dippitón greets you!</h1>
+<h4 align="center">Hi there! 👋!</h4>
 
 I'm a Computer Systems Engineering student from Dominican Republic. I'm really passionate about technology. So that's why I constantly seek to gain knowledge, and at the same time be able to improve and develop my programmer's skills.
-- 👀 I’m really into web programming👩🏽‍💻, robotics, software development and embedded systems. 
-- 🌱 Currently learning frontend development.
-- 👨‍💻 All of my projects are available at [fdippiton.github.io/portfolio/](https://fdippiton.github.io/portfolio/)
-- ⚡ Fun fact **I'm a old soul in a young body :)**
+- 👨‍💻 All of my projects are available at [fdippiton.github.io/fdippiton-portfolio/] (https://fdippiton.github.io/fdippiton-portfolio/)
 - 📫 Reach me on francina.dippiton@gmail.com and follow me on @fdippiton 
 
 <!---
